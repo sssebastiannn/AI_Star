@@ -1,7 +1,14 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench />
+﻿<Properties StartupConfiguration="{35BC9A7A-3780-31FD-75CD-BAF81EC03017}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SebastiansSkript/Edge.cs">
+    <Files>
+      <File FileName="Assets/SebastiansSkript/Graph.cs" Line="30" Column="29" />
+      <File FileName="Assets/SebastiansSkript/Vertex.cs" Line="10" Column="28" />
+      <File FileName="Assets/SebastiansSkript/Edge.cs" Line="7" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7f40a8de-6633-4b97-94f7-51de1fd34111" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
